@@ -1,0 +1,5 @@
+name: Jenkins
+description: |
+  Jenkins-Lab
+version: v0.1.0
+category: CI-Server
